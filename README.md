@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Shubham Dharwat</h1>
 
 <h3 align="center">
@@ -32,11 +31,9 @@ I enjoy designing scalable backend systems, developing AI-powered solutions, and
 </a>
 
 </p>
-```
 
 
 ---
-```markdown
 ## 👨‍💻 About Me
 
 🎓 Computer Science Graduate specializing in Artificial Intelligence
@@ -58,7 +55,6 @@ I enjoy designing scalable backend systems, developing AI-powered solutions, and
 - Improving Data Structures & Algorithms
 - Developing AI-powered software
 - Exploring cloud-native development
-```
 
 ---
 
