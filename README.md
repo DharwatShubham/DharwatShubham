@@ -1,26 +1,64 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Shubham Dharwat</h1>
 
 <h3 align="center">
-Software Engineer | Java Backend Developer | AI & Machine Learning Enthusiast
+Software Engineer • Java Backend Developer • Building AI-Powered Applications
 </h3>
 
 <p align="center">
-Building scalable backend applications, AI-powered solutions, and continuously learning modern software engineering.
+I enjoy designing scalable backend systems, developing AI-powered solutions, and continuously learning modern software engineering.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;AI-Powered+Application+Developer;Always+Learning+Something+New"/>
 </p>
 
----
+<p align="center">
 
+<a href="mailto:dharwatshubham@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DharwatShubham">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+```
+
+
+---
+```markdown
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate specializing in **Artificial Intelligence**
-- 💼 Interested in **Software Engineering, Backend Development, AI/ML, and Data Analytics**
-- 🌱 Currently learning **Spring Security, Docker, AWS, and System Design**
-- 💡 I enjoy building real-world applications that solve practical problems.
-- 📫 Reach me at **dharwatshubham@gmail.com**
+🎓 Computer Science Graduate specializing in Artificial Intelligence
+
+💼 Interested in
+- Software Engineering
+- Backend Development
+- Artificial Intelligence
+- Data Analytics
+
+🌱 Currently Learning
+- Spring Security
+- Docker
+- AWS
+- System Design
+
+🎯 Current Focus
+- Building production-ready backend applications
+- Improving Data Structures & Algorithms
+- Developing AI-powered software
+- Exploring cloud-native development
+```
 
 ---
 
