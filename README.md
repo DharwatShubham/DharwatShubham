@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Dharwat
 
-I'm a Computer Science graduate interested in software development, artificial intelligence, and data science. I enjoy building applications using Java, Python, and Spring Boot while exploring how software and AI can be used to solve real-world problems.
+I'm a Computer Science graduate specializing in Artificial Intelligence & Machine Learning, with an interest in software development, artificial intelligence, and data science. I enjoy building applications using Java, Python, and Spring Boot while exploring how software and AI can be used to solve real-world problems.
 
 Most of my experience comes from personal and academic projects, where I've worked on backend development, machine learning, and data-driven applications. Building projects has been my primary way of learning, allowing me to strengthen my understanding of software engineering, REST APIs, databases, and modern development practices.
 
@@ -12,12 +12,12 @@ For more information about my background and projects, feel free to connect with
 
 ## About Me
 
-- **Education:** Bachelor of Technology in Computer Science
-- **Interests:** Software Development, Artificial Intelligence, and Data Science
+- **Education:** Bachelor of Technology in Computer Science (Artificial Intelligence & Machine Learning)
+- **Areas of Interest:** Software Development, Artificial Intelligence, and Data Science
 - **Languages:** Java, Python, JavaScript, SQL
 - **Frameworks & Technologies:** Spring Boot, FastAPI, React, MySQL
 - **Tools:** Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA
-- **Currently Exploring:** Spring Security, Cloud Computing, and Data Structures & Algorithms
+- **Currently Exploring:** Spring Security, Cloud Computing, Data Structures & Algorithms, and Backend Development
 
 ---
 
@@ -87,13 +87,12 @@ Python • Scikit-learn • Streamlit
 
 ---
 
-## Currently Exploring
+## Currently Working On
 
 - Building AI-powered backend applications
-- Improving problem-solving through Data Structures & Algorithms
-- Learning Spring Security
-- Cloud computing fundamentals
-- Writing clean, maintainable, and scalable software
+- Strengthening problem-solving through Data Structures & Algorithms
+- Learning Spring Security and cloud deployment
+- Exploring software architecture and clean coding practices
 
 ---
 
