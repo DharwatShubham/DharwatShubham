@@ -1,28 +1,23 @@
-<h1 align="center">Shubham Dharwat</h1>
+# Hi, I'm Shubham Dharwat
 
-<p align="center">
-Computer Science Graduate
-</p>
+I'm a Computer Science graduate interested in software development, artificial intelligence, and data science. I enjoy building applications using Java, Python, and Spring Boot while exploring how software and AI can be used to solve real-world problems.
 
-<p align="center">
-Software Development • Artificial Intelligence • Data Science
-</p>
+Most of my experience comes from personal and academic projects, where I've worked on backend development, machine learning, and data-driven applications. Building projects has been my primary way of learning, allowing me to strengthen my understanding of software engineering, REST APIs, databases, and modern development practices.
 
-<p align="center">
-Building practical software using Java, Python, Spring Boot, Machine Learning, and modern web technologies.
-</p>
+I'm currently looking for opportunities where I can contribute, continue learning, and grow as a Software Engineer while expanding my knowledge in AI and data-driven technologies.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=555555&center=true&vCenter=true&width=720&lines=Software+Development;Artificial+Intelligence;Data+Science;Java+%7C+Python;Spring+Boot;Machine+Learning;Deep+Learning;Always+Learning"/>
-</p>
+For more information about my background and projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-dharwat-921127323/).
 
 ---
 
 ## About Me
 
-I'm a Computer Science graduate with an interest in software development, artificial intelligence, and data science. I enjoy building applications that solve practical problems, whether it's developing backend services with Java and Spring Boot, creating machine learning models in Python, or working with data to uncover meaningful insights.
-
-Through academic and personal projects, I've gained experience in backend development, machine learning, data analysis, and modern web technologies. I enjoy learning by building projects, exploring new tools, and continuously improving my understanding of software engineering and AI.
+- **Education:** Bachelor of Technology in Computer Science
+- **Interests:** Software Development, Artificial Intelligence, and Data Science
+- **Languages:** Java, Python, JavaScript, SQL
+- **Frameworks & Technologies:** Spring Boot, FastAPI, React, MySQL
+- **Tools:** Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA
+- **Currently Exploring:** Spring Security, Cloud Computing, and Data Structures & Algorithms
 
 ---
 
@@ -30,32 +25,35 @@ Through academic and personal projects, I've gained experience in backend develo
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-</p>
+- Java
+- Python
+- JavaScript
+- SQL
 
 ### Frameworks & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,fastapi" />
-</p>
+- Spring Boot
+- FastAPI
+- React
+- MySQL
 
-### Artificial Intelligence & Data Science
+### AI & Data Science
 
 - Machine Learning
-- Deep Learning
 - Data Science
-- TensorFlow
 - Scikit-learn
+- TensorFlow
 - Pandas
 - NumPy
-- OpenCV
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
-</p>
+- Git
+- GitHub
+- Docker
+- Postman
+- IntelliJ IDEA
+- Visual Studio Code
 
 ---
 
@@ -63,49 +61,43 @@ Through academic and personal projects, I've gained experience in backend develo
 
 ### AI Resume Analyzer
 
-A web application that analyzes resumes, estimates ATS compatibility, and generates personalized feedback using the Gemini API. The project combines Java backend development with artificial intelligence to create a practical tool for job seekers.
+A Spring Boot application that analyzes resumes, evaluates ATS compatibility, and generates personalized feedback using the Gemini API. The project combines backend development with AI to help users improve their resumes.
 
-**Technology**
+**Tech Stack**
 
 Java • Spring Boot • Gemini API • REST API
 
 **Repository**
 
-- https://github.com/DharwatShubham/ai-resume-analyzer
+- [AI Resume Analyzer](https://github.com/DharwatShubham/ai-resume-analyzer)
 
 ---
 
 ### Digital Maturity Classifier
 
-A machine learning application that predicts Industry 4.0 digital maturity levels using classification models. It includes an interactive Streamlit interface for prediction and visualization.
+A machine learning application that predicts Industry 4.0 digital maturity using classification models through an interactive Streamlit interface for prediction and visualization.
 
-**Technology**
+**Tech Stack**
 
 Python • Scikit-learn • Streamlit
 
 **Repository**
 
-- https://github.com/DharwatShubham/digital-maturity-classifier
+- [Digital Maturity Classifier](https://github.com/DharwatShubham/digital-maturity-classifier)
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
-- Spring Security
-- Docker
-- Cloud Computing
-- Computer Vision
-- System Design
-- Data Structures & Algorithms
+- Building AI-powered backend applications
+- Improving problem-solving through Data Structures & Algorithms
+- Learning Spring Security
+- Cloud computing fundamentals
+- Writing clean, maintainable, and scalable software
 
 ---
 
-## Contact
+## Connect
 
-**Email**
-
-dharwatshubham@gmail.com
-
-**LinkedIn**
-
-https://www.linkedin.com/in/shubham-dharwat-921127323/
+- **LinkedIn:** https://www.linkedin.com/in/shubham-dharwat-921127323/
+- **Email:** dharwatshubham@gmail.com
